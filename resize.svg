@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Resize">
+	<path d="M96,4v92H4V4H96 M100,0H0v100h100V0L100,0z"/>
+	<polygon points="86,70 70,86 86,86 	"/>
+	<g>
+		<polygon points="14,30 30,14 14,14 		"/>
+	</g>
+	<polygon points="70,14 86,30 86,14 	"/>
+	<g>
+		<polygon points="30,86 14,70 14,86 		"/>
+	</g>
+	<path d="M70,30H60v4h10V30L70,30z M50,30H40v4h10V30L50,30z M34,30h-4v10h4V30L34,30z M34,50h-4v10h4V50L34,50z M40,66H30v4h10V66
+		L40,66z M60,66H50v4h10V66L60,66z M70,60h-4v10h4V60L70,60z M70,40h-4v10h4V40L70,40z"/>
+</g>
+</svg>
