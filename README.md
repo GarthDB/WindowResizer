@@ -19,7 +19,7 @@ Exmaple:
 ```
 resizer 400x500
 ```
-![Resizer](//Screen%20Shot%202013-06-06%20at%2011.32.22%20AM.png)
+![Resizer](//screenshot.png)
 
 Script
 ===
