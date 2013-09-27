@@ -1,32 +1,3 @@
-WindowResizer
-=============
-
-An [Alfred 2](http://www.alfredapp.com/) Workflow that will resize windows to exact pixel dimensions.
-
-
-Installation
-=============
-Download the [workflow](https://github.com/GarthDB/WindowResizer/raw/master/WindowResizer.alfredworkflow) file and double click it to install it in Alfred.
-
-
-Usage
-=============
-
-The worklow is simple.  It just resizes the topmost window to the pixel dimensions entered.  Format the dimensions as `WIDTHxHEIGHT` (replacing `WIDTH` and `HEIGHT` with the size in pixels).
-
-Exmaple:
-
-```
-resizer 400x500
-```
-![Resizer](//screenshot.png)
-
-Script
-===
-
-The actual AppleScript is:
-
-```AppleScript
 to splitString(aString, delimiter)
 	set retVal to {}
 	set prevDelimiter to AppleScript's text item delimiters
@@ -57,10 +28,3 @@ on alfred_script(q)
 	end try
 	
 end alfred_script
-```
-
-Colophon
-===
-
-* This workflow uses Geert JM Vanderkelen's [string splitter example](http://geert.vanderkelen.org/splitting-as-string-and-joining-a-list-using-applescript/).
-* The resize icon has been added to [The Noun Project](http://thenounproject.com/garthdb/)
