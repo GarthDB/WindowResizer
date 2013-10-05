@@ -6,7 +6,7 @@ An [Alfred 2](http://www.alfredapp.com/) Workflow that will resize windows to ex
 
 Installation
 =============
-Download the [workflow](https://github.com/GarthDB/WindowResizer/raw/master/WindowResizer.alfredworkflow) file and double click it to install it in Alfred.
+Download the [workflow](https://github.com/GarthDB/WindowResizer/releases) file and double click it to install it in Alfred.
 
 
 Usage
